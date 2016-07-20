@@ -1,0 +1,28 @@
+.cuadros{
+	width: 100px;
+	height: 100px;
+	border: solid black 1px;
+	background-color: orange;
+
+}
+
+.floating{
+		float: left;
+}
+.clearfix{
+	overflow: auto;
+	zoom: 1;
+	
+}
+.in-block{
+	display: inline-block;
+}
+
+#papa {
+	background-color: yellow;
+	padding: 40px;
+	width: 900px;
+	height: 300px;
+
+
+}
